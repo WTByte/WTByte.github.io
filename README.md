@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my user page!
 
-You can use the [editor on GitHub](https://github.com/WTByte/WTByte.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I enjoy diving into data to tell stories and make decisions. Here's a sample of past projects I've done:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Exploratory Analysis of Chocolate Bars](https://www.kaggle.com/wtbyte/exploratory-analysis-of-chocolate-bars): a quick look at chocolate bar ratings across the world.
 
-### Markdown
+- [FGO SSR Calculator](https://wtbyte.shinyapps.io/FGO_SSR_Summon_Calculator/): creating a simple interactive app using R Shiny. May take a few minutes to start the environment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [FGO Reddit Survey Analysis](https://wtbyte.github.io/Survey_Results_v3.html): cleaning and analysis of survey data using R.
 
-```markdown
-Syntax highlighted code block
+- [FGO Servant Stats](https://wtbyte.github.io/fgo_servant_stats.html): visualisation of FGO servant hp and attack stats using plotly. Currently WIP.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WTByte/WTByte.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Avatar](https://avatars.githubusercontent.com/u/23630294?v=4?s=400)
