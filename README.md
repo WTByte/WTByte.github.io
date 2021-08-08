@@ -11,3 +11,5 @@ I enjoy diving into data to tell stories and make decisions. Here's a sample of 
 - [FGO Servant Stats](https://wtbyte.github.io/fgo_servant_stats.html): visualisation of FGO servant hp and attack stats using plotly. Currently WIP.
 
 ![Avatar](https://avatars.githubusercontent.com/u/23630294?v=4?s=400)
+
+[Image source](https://www.pixiv.net/en/artworks/4656281)
