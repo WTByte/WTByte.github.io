@@ -12,6 +12,8 @@ I enjoy diving into data to tell stories and make decisions. Here's a sample of 
 
 - [Time Spent By Age](https://wtbyte.github.io/time_spent_by_age.html): alternative representation of time spent by age
 
+- [2020 Daily Rainfall in Brisbane](https://wtbyte.github.io/daily-2020-rainfall.html): calendar heatmap of rainfall in Brisbane across 2020.
+
 ![Avatar](https://avatars.githubusercontent.com/u/23630294?v=4?s=400)
 
 [Image source](https://www.pixiv.net/en/artworks/4656281)
