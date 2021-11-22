@@ -2,9 +2,9 @@
 
 I enjoy diving into data to tell stories and make decisions. Here's a sample of past projects I've done:
 
-- [Exploratory Analysis of Chocolate Bars](https://www.kaggle.com/wtbyte/exploratory-analysis-of-chocolate-bars): a quick look at chocolate bar ratings across the world.
+- [Exploratory Analysis of Chocolate Bars using R](https://www.kaggle.com/wtbyte/exploratory-analysis-of-chocolate-bars): a quick look at chocolate bar ratings across the world.
 
-- [FGO SSR Calculator](https://wtbyte.shinyapps.io/FGO_SSR_Summon_Calculator/): creating a simple interactive app using R Shiny. May take a few minutes to start the environment.
+- [FGO SSR Calculator](https://wtbyte.shinyapps.io/FGO_SSR_Summon_Calculator/): creating a simple interactive app using R Shiny based off a binomial distribution. May take a few minutes to start the environment.
 
 - [FGO Reddit Survey Analysis](https://wtbyte.github.io/Survey_Results_v3.html): cleaning and analysis of survey data using R.
 
